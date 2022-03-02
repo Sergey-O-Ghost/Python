@@ -1,0 +1,4 @@
+This is the first string
+Hello world!
+Hello, Torvalds!
+London is the capital of Great Britain
